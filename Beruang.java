@@ -1,3 +1,4 @@
+// https://tlx.toki.id/problems/troc-21/B
 import java.util.*;
 
 public class Beruang {
