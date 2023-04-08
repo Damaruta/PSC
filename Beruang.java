@@ -1,4 +1,5 @@
 // https://tlx.toki.id/problems/troc-21/B
+// author: d.mr_29
 import java.util.*;
 
 public class Beruang {
