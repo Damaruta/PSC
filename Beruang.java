@@ -19,7 +19,7 @@ public class Beruang {
         // Mengurutkan array a
         Arrays.sort(a);
 
-        // Menghitung jumlah pasangan bilangan yang selisihnya sama dengan d
+        // Menghitung jumlah pasangan bilangan yang selisihnya sama dengan d menggunakan metode binary search
         int ans = 0;
         for (int i = 0; i < n; i++) {
             int j = Arrays.binarySearch(a, a[i] + d);
