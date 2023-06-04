@@ -1,3 +1,7 @@
+/*
+ * https://tlx.toki.id/problems/troc-4/A/
+ */
+
 import java.util.*;
 
 public class BukanKelipatan {
